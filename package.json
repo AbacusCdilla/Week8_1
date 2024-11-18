@@ -2,5 +2,17 @@
   "dependencies": {
     "express": "^4.21.1",
     "mongodb": "^3.6.3"
-  }
+  },
+  "name": "week8_1",
+  "version": "1.0.0",
+  "main": "server1.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
